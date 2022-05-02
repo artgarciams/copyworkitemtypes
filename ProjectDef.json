@@ -1,6 +1,6 @@
 { 
-    "VSTSMasterAcct" : "CSECodeHub",
-    "userEmail"      : "argarc@microsoft.com",
-    "PAT"            : "mkuvog4aza5zcoma6uweabxfktjjbfexvvti6x5fdimvbvawnq5q",
+    "VSTSMasterAcct" : "",
+    "userEmail"      : "",
+    "PAT"            : "",
     "HTTP_preFix"    : "https"
 }
